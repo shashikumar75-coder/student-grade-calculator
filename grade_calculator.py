@@ -25,3 +25,4 @@ elif percentage >= 40:
     print("Grade: D")
 else:
     print("Grade: Fail")
+print("Thank you for using Student Grade Calculator!")
